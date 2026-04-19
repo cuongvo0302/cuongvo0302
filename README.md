@@ -1,8 +1,23 @@
+<!-- 🔥 HEADER -->
 <h1 align="center">Chào 👋, mình là Chi Cường</h1>
 <h3 align="center">Kỹ thuật viên kiểm tra TV & Màn hình (MNT) ⚡📺</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cuongvo2001&label=Profile%20views&color=0e75b6&style=flat" alt="cuongvo2001" />
+  <img src="https://komarev.com/ghpvc/?username=cuongvo2001&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<!-- 🎯 BANNER -->
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600"/>
+</p>
+
+---
+
+<!-- 🖥️ HERO IMAGE -->
+<p align="center">
+  <img src="https://cdn.dribbble.com/userupload/42417320/file/original-b7996ce2ce951323fa08f15d912d5d24.gif" width="350"/>
 </p>
 
 ---
@@ -18,8 +33,8 @@
 
 ## 🛠️ Kỹ năng chuyên môn
 
-* 🧩 Phân tích & sửa lỗi **mainboard, T-con, nguồn**
-* 🌈 Xử lý lỗi **panel: sọc màn, ám màu, mất hình**
+* 🧩 Phân tích & sửa lỗi mainboard, T-con, nguồn
+* 🌈 Xử lý lỗi panel: sọc màn, ám màu, mất hình
 * 📊 Đo kiểm điện áp & tín hiệu
 * 🔌 Kiểm tra hệ thống nguồn & kết nối
 * 📐 Đọc sơ đồ mạch điện tử
@@ -28,9 +43,9 @@
 
 ## 🌱 Đang phát triển
 
-* 🤖 Tự động hóa kiểm tra (Automation Test)
+* 🤖 Automation Test thiết bị điện tử
 * 📡 Nâng cao kiến thức tín hiệu hiển thị
-* ⚙️ Quy trình kiểm tra chất lượng (QA/QC)
+* ⚙️ Quy trình QA/QC sản xuất
 
 ---
 
@@ -46,15 +61,15 @@
 
 ## 🤝 Hợp tác
 
-* ⚡ Thi công & bảo trì hệ thống điện
-* 📡 Lắp đặt hệ thống TV & truyền hình cáp
-* 🏗️ Dự án điện & điện tử quy mô nhỏ
+* ⚡ Bảo trì & sửa chữa thiết bị điện tử
+* 📡 Hệ thống TV – truyền hình cáp
+* 🏗️ Dự án điện – điện tử quy mô nhỏ
 
 ---
 
 ## 📫 Liên hệ
 
-* 📧 Email: [cuongvcse150674@fpt.edu.vn](mailto:cuongvcse150674@fpt.edu.vn)
+* 📧 Email: **cuongvcse150674@fpt.edu.vn**
 
 ---
 
@@ -67,7 +82,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cuongvo2001&show_icons=true&locale=en" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cuongvo2001&show_icons=true&theme=default" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cuongvo2001&layout=compact" height="165"/>
 </p>
 
