@@ -1,11 +1,7 @@
-![MasterHead](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-
 <h1 align="center">Chào 👋, mình là Chi Cường</h1>
 <h3 align="center">Kỹ thuật viên kiểm tra TV & Màn hình (MNT) ⚡📺</h3>
 
-<img align="right" alt="Electronics" width="400" src="https://cdn.dribbble.com/userupload/42417320/file/original-b7996ce2ce951323fa08f15d912d5d24.gif"/>
-
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=cuongvo2001&label=Profile%20views&color=0e75b6&style=flat" alt="cuongvo2001" />
 </p>
 
@@ -70,8 +66,11 @@
 
 ## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cuongvo2001&show_icons=true&locale=en&layout=compact" alt="cuongvo2001" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cuongvo2001&show_icons=true&locale=en" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cuongvo2001&layout=compact" height="165"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cuongvo2001&show_icons=true&locale=en" alt="cuongvo2001" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cuongvo2001&" alt="cuongvo2001" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cuongvo2001"/>
+</p>
