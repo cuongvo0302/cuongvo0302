@@ -1,7 +1,7 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
-<h1 align="center">Hi 👋, I'm Chi Cuong</h1>
-<h3 align="center">TV & Monitor (MNT) Test Technician ⚡📺</h3>
+<h1 align="center">Chào 👋, mình là Chi Cường</h1>
+<h3 align="center">Kỹ thuật viên kiểm tra TV & Màn hình (MNT) ⚡📺</h3>
 
 <img align="right" alt="TV Test" width="400" src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif"/>
 
@@ -11,58 +11,64 @@
 
 ---
 
-### 🔧 About me
+## 🔧 Về tôi
 
-* 📺 Chuyên test, kiểm tra và sửa lỗi **TV & Monitor (MNT)**
-* ⚡ Kinh nghiệm làm việc với **panel, mainboard, T-con**
+* 📺 Kiểm tra, test và sửa lỗi **TV & Monitor (MNT)**
+* 🧩 Làm việc với **panel, mainboard, T-con, PSU**
 * 📡 Hiểu về **tín hiệu hiển thị & truyền hình**
-* 🧩 Phân tích và xử lý lỗi kỹ thuật trong sản xuất
+* ⚡ Đảm bảo chất lượng sản phẩm trong quá trình sản xuất (QC)
 
 ---
 
-### 🛠️ Technical Skills
+## 🛠️ Kỹ năng chuyên môn
 
-* 🧩 Kiểm tra & sửa lỗi **mainboard, T-con, PSU**
-* 🌈 Test lỗi **panel (sọc, đốm, ám màu, mất hình)**
-* 📊 Đo kiểm tín hiệu và điện áp
-* 🔌 Kiểm tra nguồn & mạch điện
+* 🧩 Phân tích & sửa lỗi **mainboard, T-con, nguồn**
+* 🌈 Xử lý lỗi **panel: sọc màn, ám màu, mất hình**
+* 📊 Đo kiểm điện áp & tín hiệu
+* 🔌 Kiểm tra hệ thống nguồn & kết nối
 * 📐 Đọc sơ đồ mạch điện tử
 
 ---
 
-### 🌱 Currently Learning
+## 🌱 Đang phát triển
 
-* 🤖 Tự động hóa test (Automation)
-* 📡 Nâng cao kiến thức về tín hiệu hiển thị
-* ⚙️ Quy trình kiểm tra chất lượng (QC/QA)
+* 🤖 Tự động hóa kiểm tra (Automation Test)
+* 📡 Nâng cao kiến thức tín hiệu hiển thị
+* ⚙️ Quy trình kiểm tra chất lượng (QA/QC)
 
 ---
 
-### 📫 Contact
+## 🧰 Thiết bị & công cụ
+
+* 🔌 Multimeter
+* 📊 Oscilloscope
+* 📺 Signal Generator
+* ⚡ Power Supply
+* 🧩 Test Board
+
+---
+
+## 🤝 Hợp tác
+
+* ⚡ Thi công & bảo trì hệ thống điện
+* 📡 Lắp đặt hệ thống TV & truyền hình cáp
+* 🏗️ Dự án điện & điện tử quy mô nhỏ
+
+---
+
+## 📫 Liên hệ
 
 * 📧 Email: [cuongvcse150674@fpt.edu.vn](mailto:cuongvcse150674@fpt.edu.vn)
 
 ---
 
-### ⚡ Fun fact
+## ⚡ Fun fact
 
-* 🔧 Thích sửa những chiếc TV “chết” thành hoạt động lại 😄
-
----
-
-### 🧰 Tools & Equipment
-
-<p align="left">
-  🔌 Multimeter  
-  📺 Signal Generator  
-  🧩 Test Board  
-  ⚡ Power Supply  
-  📊 Oscilloscope  
-</p>
+* 🔧 Đam mê sửa chữa và “hồi sinh” thiết bị điện tử 😄
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cuongvo2001&show_icons=true&locale=en&layout=compact" alt="cuongvo2001" /></p>
 
