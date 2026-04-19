@@ -1,56 +1,71 @@
-## 👋 Xin chào, tôi là Cường
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-💡 **Kỹ thuật viên điện | Tủ điện | Hệ thống TV & tín hiệu**
+<h1 align="center">Hi 👋, I'm Chi Cuong</h1>
+<h3 align="center">TV & Monitor (MNT) Test Technician ⚡📺</h3>
 
----
+<img align="right" alt="Technician" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-### 🔧 Giới thiệu
-
-Tôi là kỹ thuật viên chuyên về thi công, lắp đặt và sửa chữa hệ thống điện & TV, bao gồm:
-
-* ⚡ Tủ điện dân dụng & công nghiệp
-* 📡 Hệ thống điện nhẹ, truyền hình cáp
-* 📺 TV, màn hình và thiết bị hiển thị
-
-Tôi luôn đặt tiêu chí **an toàn – ổn định – hiệu quả** lên hàng đầu trong mọi công việc.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=cuongvo2001&label=Profile%20views&color=0e75b6&style=flat" alt="cuongvo2001" />
+</p>
 
 ---
 
-### 🛠️ Kỹ năng chuyên môn
+### 🔧 About me
 
-* ⚡ Thiết kế & lắp ráp tủ điện
-* 🔌 Đấu nối hệ thống điện dân dụng & công nghiệp
-* 📺 Lắp đặt, chẩn đoán & sửa lỗi hệ thống TV/cáp
-* 🧩 Sửa chữa board mạch, thiết bị điện tử
-* 📐 Đọc & triển khai bản vẽ kỹ thuật điện
-
----
-
-### 🌱 Đang phát triển
-
-* 🤖 Tự động hóa (PLC cơ bản)
-* 🏠 Hệ thống điện thông minh (Smart Home)
-* 📊 Nâng cao kỹ năng thiết kế & tối ưu hệ thống điện
+* 📺 Chuyên test, kiểm tra và sửa lỗi **TV & Monitor (MNT)**
+* ⚡ Kinh nghiệm làm việc với **panel, mainboard, T-con**
+* 📡 Hiểu về **tín hiệu hiển thị & truyền hình**
+* 🧩 Phân tích và xử lý lỗi kỹ thuật trong sản xuất
 
 ---
 
-### 🤝 Hợp tác
+### 🛠️ Technical Skills
 
-Sẵn sàng tham gia các công việc:
-
-* ⚡ Thi công điện công trình
-* 📡 Lắp đặt hệ thống TV & truyền hình cáp
-* 🏗️ Dự án điện dân dụng & công nghiệp quy mô nhỏ
+* 🧩 Kiểm tra & sửa lỗi **mainboard, T-con, PSU**
+* 🌈 Test lỗi **panel (sọc, đốm, ám màu, mất hình)**
+* 📊 Đo kiểm tín hiệu và điện áp
+* 🔌 Kiểm tra nguồn & mạch điện
+* 📐 Đọc sơ đồ mạch điện tử
 
 ---
 
-### 📫 Liên hệ
+### 🌱 Currently Learning
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 📱 Zalo/Phone: 0xxx xxx xxx
+* 🤖 Tự động hóa test (Automation)
+* 📡 Nâng cao kiến thức về tín hiệu hiển thị
+* ⚙️ Quy trình kiểm tra chất lượng (QC/QA)
+
+---
+
+### 📫 Contact
+
+* 📧 Email: [cuongvcse150674@fpt.edu.vn](mailto:cuongvcse150674@fpt.edu.vn)
 
 ---
 
 ### ⚡ Fun fact
 
-Thích sửa chữa và “hồi sinh” những thiết bị điện tưởng như đã bỏ đi 🔧😄
+* 🔧 Thích sửa những chiếc TV “chết” thành hoạt động lại 😄
+
+---
+
+### 🧰 Tools & Equipment
+
+<p align="left">
+  🔌 Multimeter  
+  📺 Signal Generator  
+  🧩 Test Board  
+  ⚡ Power Supply  
+  📊 Oscilloscope  
+</p>
+
+---
+
+### 📊 GitHub Stats (Demo)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cuongvo2001&show_icons=true&locale=en&layout=compact" alt="cuongvo2001" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cuongvo2001&show_icons=true&locale=en" alt="cuongvo2001" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cuongvo2001&" alt="cuongvo2001" /></p>
